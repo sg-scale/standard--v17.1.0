@@ -26,7 +26,7 @@
     "version-guard": "^1.1.1"
   },
   "devDependencies": {
-    "cross-spawn": "^7.0.3",
+    "cross-spawn": "^7.0.6",
     "hallmark": "^4.2.0",
     "minimist": "^1.2.8",
     "run-parallel-limit": "^1.1.0",
